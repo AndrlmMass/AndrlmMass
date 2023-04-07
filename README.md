@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrlmMass
 - 👀 I’m interested in consciousness, machine learning, psychedelics, quantum mechanics and dark energy
-- 🌱 I’m currently learning about R-code, open science practices and socialization skills
-- 💞️ I’m looking to collaborate on R-coding and machine learning projects
+- 🌱 I’m currently learning about Neural networks and ketamine therapy
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me: a.l.massey@medisin.uio.no
 
 <!---
