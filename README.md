@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AndrlmMass
-- 👀 I’m interested in consciousness, machine learning, and psychedelics
-- 🌱 I’m currently learning about deep neural networks, predictive coding theory and computational neuroscience
-- 💞️ I’m looking to collaborate on machine learning / neuroscience projects
+- 👀 I’m interested in AI safety, machine learning, and biological warfare mitigation
+- 🌱 I’m currently learning about spiking neural networks and longevity
+- 💞️ I’m looking to collaborate on machine learning / neuroscience projects / whatever
 - 📫 How to reach me: andreasliemassey@gmail.com
 
 <!---
